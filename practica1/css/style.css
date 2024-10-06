@@ -1,0 +1,186 @@
+.contacto{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-weight:400;
+    font-size: 20px;
+}
+ul li{
+display: inline-block;
+padding: 0px 20px;
+}
+.contact{
+    color: white;
+    text-decoration: none;
+    font-family: montserrat;
+}
+.icon{
+    color: orange;
+    font-size: 25px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 50px;
+    background-color: white;
+    padding: 10px;
+}
+.logo img{
+    height: 50px;
+    margin-right: 50px;
+    position: absolute;
+    left: 0;
+}
+.menu{
+    font-family: montserrat;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    background-color: white;
+    padding: 10px;
+}
+.nav-link{
+    text-decoration: none;
+    color: grey;
+    display: inline;
+    padding: 25px;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: orange;
+}
+.titulo{
+    font-family: handlee;
+}
+.welcome{
+    font-family: montserrat;
+}
+.oferta{
+    font-family: montserrat;
+}
+#fondo{
+    background-image: url(../images/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.titulo{
+    font-family: handlee;
+    color: white;
+    height: 20px;
+    width: 800px;
+    font-size: 30px;
+    position: absolute;
+    margin: 100px 50px;
+}
+.welcome{
+    font-family: montserrat;
+    color: orange;
+    font-size: 20px;
+    height: 20px;
+    width: 800px;
+    position: absolute;
+    margin: 150px 50px;
+}
+.oferta{
+    font-family: montserrat;
+    color: white;
+    font-size: 18px;
+    height: 20px;
+    width: 800px;
+    position: absolute;
+    margin: 200px 50px;
+}
+.carta{
+    font-family: montserrat;
+    color: white;
+    text-decoration: none;
+    font-weight:bolder;
+    position: absolute;
+    margin: 250px 50px;
+    background-color: orange;
+    padding: 15px 30px;
+}
+.redes li{
+    margin-top: 350px;
+    margin-bottom: 50px;
+    font-size: 35px;
+}
+.social-media{
+    color: white;
+}
+.social-media:hover{
+    color: orange;
+    font-size: 45px;
+}
+.servicios{
+    font-family: handlee;
+    font-weight: bolder;
+    color: black;
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.nosotros{
+    font-family: handlee;
+    font-weight: bolder;
+    color: black;
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.grid{
+    font-family: montserrat;
+    display: flex;
+}
+.mas{
+    font-family: montserrat;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-weight:bolder;
+    background-color: orange;
+    padding: 10px 30px;
+}
+.team{
+    width: 400px;
+}
+.us{
+    font-family: montserrat;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+h3{
+    font-family: montserrat;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+h4{
+    color: orange;
+}
+footer{
+background-color: black;
+color: white;
+font-family: montserrat;
+text-align: center;
+text-decoration: none;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+.aviso{
+    color: white;
+}
